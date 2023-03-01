@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Pulp Fiction",
+    "genre": "Crime",
+    "directorId": "63bd2e5b761acb1e840043d2"
+  },
+  {
+    "name": "1984",
+    "genre": "Sci-Fi",
+    "directorId": "63bd2e5b761acb1e840043d3"
+  },
+  {
+    "name": "V for vendetta",
+    "genre": "Sci-Fi-Triller",
+    "directorId": "63bd2e5b761acb1e840043d4"
+  },
+  {
+    "name": "Snatch",
+    "genre": "Crime-Comedy",
+    "directorId": "63bd2e5b761acb1e840043d5"
+  },
+  {
+    "name": "Reservoir Dogs",
+    "genre": "Crime",
+    "directorId": "63bd2e5b761acb1e840043d2"
+  },
+  {
+    "name": "The Hateful Eight",
+    "genre": "Crime",
+    "directorId": "63bd2e5b761acb1e840043d2"
+  },
+  {
+    "name": "Inglourious Basterds",
+    "genre": "Crime",
+    "directorId": "63bd2e5b761acb1e840043d2"
+  },
+  {
+    "name": "Lock, Stock and Two Smoking Barrels",
+    "genre": "Crime-Comedy",
+    "directorId": "63bd2e5b761acb1e840043d5"
+  }
+]

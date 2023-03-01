@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "chrome-launcher": "^0.15.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.6.0",
+    "mongoose": "^6.8.3",
+    "nodemon": "^2.0.20"
+  },
+  "name": "simple-graphql-server",
+  "version": "1.0.0",
+  "description": "simple graphql server for common needs",
+  "main": "index.js",
+  "devDependencies": {
+    "eslint": "^8.2.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-react": "^7.28.0",
+    "eslint-plugin-react-hooks": "^4.3.0",
+    "prettier": "^2.8.2"
+  },
+  "scripts": {
+    "start:dev": "nodemon ./server/app.js",
+    "prettier:check": "npx prettier **/*.{ts,tsx,json}",
+    "prettier:write": "npx prettier --write **/*.{ts,tsx,json}"
+  },
+  "author": "Andrew B2R",
+  "license": "ISC"
+}

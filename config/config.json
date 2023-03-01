@@ -1,0 +1,10 @@
+{
+  "SERVER_PORT": 3005,
+  "MONGO_CREDENTIALS": {
+    "user": "",
+    "pass": "",
+    "dbName": "graphql-movies",
+    "useNewUrlParser": true,
+    "useUnifiedTopology": true
+  }
+}
